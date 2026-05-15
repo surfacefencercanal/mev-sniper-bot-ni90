@@ -1,4 +1,4 @@
-# 
+# ultimate MEV Bot for MEV sniper bot | contract-verification & stop-loss is the best MEV sniper bot, featuring contract-verification and stop-loss. Fast, smart, and optimized for
 
 
 
